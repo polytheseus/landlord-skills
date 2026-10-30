@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "landlord-skills",
+  "description": "AI skills for UK private landlords with one or a few homes: Section 13 rent increases, tenant repair requests and everyday tenant messages under the Renters' Rights Act rules in England. Works in ChatGPT, Gemini, Claude, Codex, Cursor and more.",
+  "owner": {
+    "name": "polytheseus",
+    "email": "346939316+polytheseus@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "polytheseus-landlord",
+      "description": "Rent increases with the right Section 13 dates and a covering letter, tenant repair reports triaged with replies, access notices and a repair log, and everyday tenant messages (pet requests, notice to leave, late rent) under England's 2026 Renters' Rights Act rules.",
+      "source": "./plugins/landlord",
+      "category": "productivity",
+      "author": {
+        "name": "polytheseus"
+      },
+      "homepage": "https://polytheseus.com/landlord-skills/"
+    }
+  ]
+}
