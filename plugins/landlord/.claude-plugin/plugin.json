@@ -2,7 +2,7 @@
   "name": "polytheseus-landlord",
   "displayName": "Polytheseus Landlord Skills",
   "description": "Rent increases with the right Section 13 dates and a covering letter, tenant repair reports triaged with replies, access notices and a repair log, and everyday tenant messages (pet requests, notice to leave, late rent) under England's 2026 Renters' Rights Act rules.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "polytheseus"
   },

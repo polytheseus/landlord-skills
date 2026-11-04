@@ -50,9 +50,9 @@ The new rent can start on the **latest** of these, and it must be the
 
 How to count:
 
-1. **Service date.** By hand or left at the address: that day. By first
-   class post: allow at least two working days and skip weekends and bank
-   holidays. Tell the landlord to keep proof (photo of the form going
+1. **Service date.** By hand or left at the address: that day. By
+   registered post (or any postal method the tenancy agreement lists): allow
+   at least two working days and skip weekends and bank holidays. Tell the landlord to keep proof (photo of the form going
    through the door, post receipt, the sent email).
 2. **Two months later**: the same date two months on. If that date doesn't
    exist (served 31 December, "31 February"), play safe and use the 1st of
@@ -118,8 +118,10 @@ valid. Help them fill it:
 Draft two pieces:
 
 1. **A conversation first** (gov.uk suggests talking before serving): a short
-   message or phone script. Thank them, say what's coming and why (costs,
-   market rents, works done), give the figure and date, invite questions.
+   message or phone script. Thank them, say what's coming and why, give the figure
+   and date, invite questions. Use the landlord's own reason (costs, market
+   rents, works done). If they gave none, write `[your reason]`: never make one
+   up, and never write "as we discussed" unless they've said you did.
 2. **A covering letter** to go with the form: friendly, 120–200 words, states
    the new rent, start date, that the official Form 4A is enclosed, that
    they can apply to the tribunal if they think it's above market rent (the
@@ -148,7 +150,7 @@ refusing will end the tenancy.
       52 weeks from the tenancy start, 52/53 weeks from the last increase.
 - [ ] Notice counted from service, with time allowed for post.
 - [ ] Rent stated per rent period on the form.
-- [ ] No invented comparables, dates or figures.
+- [ ] No invented comparables, dates, figures or reasons for the rise.
 - [ ] The letter accompanies Form 4A and never replaces or rewords it.
 - [ ] No threats, pressure or hints about ending the tenancy.
 - [ ] "Not legal advice; check gov.uk" said once, briefly.
