@@ -1,0 +1,32 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "polytheseus-landlord-skills",
+  "displayName": "Polytheseus Landlord Skills",
+  "version": "0.1.1",
+  "description": "Rent increases with the right Section 13 dates and a covering letter, tenant repair reports triaged with replies, access notices and a repair log, and everyday tenant messages (pet requests, notice to leave, late rent) under England's 2026 Renters' Rights Act rules.",
+  "logo": "plugins/landlord/.claude-plugin/icon.png",
+  "suggestedPrompts": [
+    "Work out the earliest date a Section 13 rent increase can start",
+    "Reply to a tenant's repair request and set out the next steps",
+    "Write a polite message to a tenant about a late rent payment"
+  ],
+  "author": {
+    "name": "polytheseus",
+    "url": "https://polytheseus.com"
+  },
+  "homepage": "https://polytheseus.com/landlord-skills/",
+  "repository": "https://github.com/polytheseus/landlord-skills",
+  "license": "MIT",
+  "keywords": [
+    "landlord",
+    "buy-to-let",
+    "lettings",
+    "renters-rights-act",
+    "section-13",
+    "rent-increase",
+    "repairs",
+    "tenants",
+    "uk-property",
+    "england"
+  ]
+}
