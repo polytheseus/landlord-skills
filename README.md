@@ -52,6 +52,14 @@ all projects.
 /plugin install polytheseus-landlord@landlord-skills
 ```
 
+**Gemini CLI extension:**
+
+```
+gemini extensions install https://github.com/polytheseus/landlord-skills
+```
+
+Update later with `gemini extensions update --all`.
+
 **Manual:** copy the folders in `plugins/landlord/skills/` into your
 agent's skills directory, for example `~/.claude/skills/` (Claude Code),
 `~/.agents/skills/` (Codex), `~/.gemini/skills/` (Gemini CLI),

@@ -1,0 +1,5 @@
+{
+  "name": "polytheseus-landlord-skills",
+  "version": "0.1.1",
+  "description": "AI skills for UK private landlords with one or a few homes: Section 13 rent increases, tenant repair requests and everyday tenant messages under the Renters' Rights Act rules in England. Works in ChatGPT, Gemini, Claude, Codex, Cursor and more."
+}
